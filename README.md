@@ -20,21 +20,22 @@ after the code CSS Pseudo element
 * Added asterisk before every h3 heading */(using Pseudo elements )before
 code look like below
 
-h3::before {
-  font-family: impact;
-  content:'\273A';
-  color:#772014;
-  margin-right: 5px;
-}
+ # h3::before { #
+ #  font-family: impact;
+ #  content:'\273A';
+  # color:#772014;
+  # margin-right: 5px;
+ # }
 
 /* Added symbols before and after the nav links */
 nav li::before,
-nav li::after {
-  content: '\2766';
-  color: #8ac4ff;
-  padding: 1%;
-  font-family: cursive;
-}
+nav li::after 
+ # {
+  # content: '\2766';
+   # color: #8ac4ff;
+  #  padding: 1%;
+  #  font-family: cursive;
+ # }
 
 # Bisrat Mengesha
 # April 6 2024
