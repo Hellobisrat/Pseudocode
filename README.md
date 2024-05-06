@@ -1,5 +1,8 @@
 # Pseudocode
 
+# this is Pseudocode project to show how to add before and after
+# using CSS Pseudocode element
+# it build with HTML5 and CSS
 
 
 Added the rest of the header text (using Pseudo elements after)
@@ -32,3 +35,6 @@ nav li::after {
   padding: 1%;
   font-family: cursive;
 }
+
+# Bisrat Mengesha
+# April 6 2024
